@@ -1,0 +1,11 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body{
+overflow-x:hidden;
+  background: linear-gradient(to right, #160D28 , #2B1951  20% 80% , #160D28);
+  font-family: Inter;
+}
